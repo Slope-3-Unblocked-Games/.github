@@ -4,7 +4,7 @@
 
 **Slope 3 Unblocked** is an exciting and fast-paced endless running game where players control a rolling ball on a neon-lit 3D slope. The goal is to navigate through challenging obstacles, avoid falling off the edges, and achieve the highest score possible.
 
-## <a href="https://classroom-6x-cool.gitlab.io/">👉 Slope 3 Unblocked 👈</a>
+## <a href="https://classroom-6x-cool.gitlab.io/slope-3.html">👉 Slope 3 Unblocked 👈</a>
 
 ![Slope 3 Unblocked](https://github.com/user-attachments/assets/4019af93-3792-4740-bb3c-d1999ca498d6)
 
